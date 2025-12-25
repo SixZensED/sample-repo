@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "run": "node scripts.js"
+    "run": "node scripts.js",
+    "demo": "node demo.js"
   },
   "devDependencies": {
     "jest": "^29.0.0"
