@@ -63,5 +63,5 @@ numbers.forEach(num => {
     console.log(`${num} is ${isPrime(num) ? '✅ prime' : '❌ not prime'}`);
 });
 
-console.log('\n✨ Have fun calculating!');
+console.log('\n✨ Have fun calculating!!');
 
